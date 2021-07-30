@@ -1,0 +1,215 @@
+<html>
+	<head>
+		<title>SOUL TOKEN</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-199647446-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-199647446-1');
+</script>
+
+		
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<span class="logo"><img src="images/soul.png" width="105" height="105"></span>
+						<h1>SOUL TOKEN</h1>
+								<p><font size="+2">SOUL TOKEN is a community driven DeFi Token that aims to contribute to <br>
+									the most in need through charitable contributions all around the world</font></p>
+					</header> 
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul>
+							<li><a href="#intro" class="active">Introduction</a></li>
+							<li><a href="#first">Tokenomics</a></li>
+							<li><a href="#second">RoadMap</a></li>
+							<li><a href="#cta">How to buy</a></li>
+							<li><a href="/whitepaper.html">White Paper</a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Introduction -->
+							<section id="intro" class="main">
+								<div class="spotlight">
+								  <div class="content">
+									<header class="major">
+											<h2>What is SOUL TOKEN</h2>
+									  </header>
+									  <p>SOUL TOKEN is a charity crypto token on the Binance Smart Chain that aims to contribute <br>
+									through charitable contributions all around the world. Every transaction has a 5% automatic liquidity fee and a 5% redistribution fee to holders. <br>
+<br>
+<br>
+
+								5,000,000,000 OF Tokens will be allocated for donations every while, and to avoid price drops the donations will be regulated.
+									We believe that through technology, everyone deservers to live a good life and with crypto tokens its easier than ever to help those in need.</p>
+	
+									</div>
+									<img src="images/soul.png" width="205" height="205">
+								</div>
+							</section>
+
+						<!-- First Section -->
+							<section id="first" class="main special">
+								<header class="major">
+									<h2>Tokenomics</h2>
+								</header>
+								<ul class="features">
+									<li>
+										<span class="icon solid major style1 fa-coins"></span>
+										<h3>Supply</h3>
+										<p>1,000,000,000,000 SLT</p>
+									</li>
+									<li>
+										<span class="icon solid major style2 fa-water"></span>
+										<h3>Automatic Liquidity</h3>
+										<p>5%</p>
+									</li>
+									<li>
+										<span class="icon solid major style5 fa-grip-vertical"></span>
+										<h3>Redistribution</h3>
+										<p>5%</p>
+									</li>
+								</ul>
+								<footer class="major">
+									<ul class="actions special">
+										
+									</ul>
+								</footer>
+							</section>
+
+						<!-- Second Section -->
+							<section id="second" class="main special">
+								<header class="major">
+									<h2>RoadMap</h2>
+<p>Q3 2021</p>
+<ul>
+<li>Release ( End of May 2021 )</li>
+<li>Initial Marketing</li>
+<li>Increase liquidity through investors</li>
+<li>Adding to Trust wallet Repository</li>
+<li>Whitepaper release</li>
+<li>CoinMarketCap &amp; CoinGecko listings</li>
+</ul>
+<p>Q4 2021</p>
+<ul>
+<li>Listings on centralized Exchanges</li>
+<li>Promotions through official news channels</li>
+<li>First major donation through official charity entities</li>
+<li>Launch Soul Token Merch store</li>
+<li>Release donation proofs on the website</li>
+</ul>
+<p>Q1 2022</p>
+<ul>
+<li>More Listings on major centralized Exchanges</li>
+<li>Second major donation through official charity entities</li>
+<li>Increase marketing campaigns</li>
+<li>Website upgrade with live price data and donations schedule</li>
+</ul>
+								</header>
+							<!--	<ul class="statistics">
+									<li class="style1">
+										<span class="icon solid fa-code-branch"></span>
+										<strong>5,120</strong> Etiam
+									</li>
+									<li class="style2">
+										<span class="icon fa-folder-open"></span>
+										<strong>8,192</strong> Magna
+									</li>
+									<li class="style3">
+										<span class="icon solid fa-signal"></span>
+										<strong>2,048</strong> Tempus
+									</li>
+									<li class="style4">
+										<span class="icon solid fa-laptop"></span>
+										<strong>4,096</strong> Aliquam
+									</li>
+									<li class="style5">
+										<span class="icon fa-gem"></span>
+										<strong>1,024</strong> Nullam
+									</li>
+								</ul>
+								<p class="content">Nam elementum nisl et mi a commodo porttitor. Morbi sit amet nisl eu arcu faucibus hendrerit vel a risus. Nam a orci mi, elementum ac arcu sit amet, fermentum pellentesque et purus. Integer maximus varius lorem, sed convallis diam accumsan sed. Etiam porttitor placerat sapien, sed eleifend a enim pulvinar faucibus semper quis ut arcu. Ut non nisl a mollis est efficitur vestibulum. Integer eget purus nec nulla mattis et accumsan ut magna libero. Morbi auctor iaculis porttitor. Sed ut magna ac risus et hendrerit scelerisque. Praesent eleifend lacus in lectus aliquam porta. Cras eu ornare dui curabitur lacinia.</p>
+								<footer class="major">
+									<ul class="actions special">
+										<li><a href="generic.html" class="button">Learn More</a></li>
+									</ul>
+								</footer>
+-->
+							</section>
+
+						<!-- Get Started -->
+							<section id="cta" class="main special">
+
+								
+									
+									
+								<header class="major">
+									  <h2>How to Buy</h2>
+								</header>
+									<h5>Buy SOUL TOKEN on PancakeSwap through Trust wallet</h5> 
+								<div><h2>Step 1: Create a Wallet</h2><p>Download <a href="https://trustwallet.com/" class="text-info" target="_blank">Trust Wallet</a> and create a wallet, Never share the secret phrase with anyone!<span class="text-warning">&nbsp;Make sure to copy the contract address of the token</span></p><div class="input-group mb-4 shadow-none" style="max-width:700px"><div style="color:#FFFFFF">Address</div></div><input type="text" value="0x44528da098b3cb58da3723b6175087ad6234e3e0" ><hr><h2 class="text-info">Step 2: Add SOUL TOKEN to the Wallet</h2><p>Tap the icon in the top-right and tap "Add Custom Token".</p><center><img src="images/trust1.jpg" width="250" height="60"></center><br>
+<center><img src="images/trust2.jpg" width="250" height="500"></center><p>At the top, tap "Ethereum" next to Network, and change it to "Smart Chain". Copy the contract address paste it in the Contract Address field.</p><center><img src="images/trust3.jpg" width="250" height="500"></center><p>then</p><p>Click "Done" at the top and you should now have SOUL TOKEN added to your wallet!</p></div>
+									<h2>Step 3: Buy or Send BNB(BSC)</h2>
+									<p>On Trust Wallet Click on Smart Chain, then click on buy OR send BNB on the Binance smart Chain (BSC Network) to your Trust wallet</p>
+									
+									<h2>Step 4: Convert BNB to SOUL TOKEN</h2>
+									<p>Go to DApps (Android) at the bottom of the main screen or the Browser on iPhones</p>
+									<p>Open PancakeSwap in DApps or IOS Browser, then Connect your Trust Wallet by clicking on the top-right " Connect  " button. Scroll down to the "Exchange" section</p>
+									<a href="https://community.trustwallet.com/t/using-walletconnect-to-access-pancakeswap/212307">Click here to see How to Connect pancakeswap to trust wallet on IOS in details</a>
+									<p>Select BNB in the first slot, and in the second slot Paste the address of SOUL token</p>
+									<img src="images/panc.jpg" width="250" height="500">
+									<p>Then Click the settings ( <i class="fas fa-sliders-h"></i> ) icon and set the slippage to 12% or more for the transaction to clear.</p>
+									<p>And Finally Click on SWAP!</p>
+									
+<div class="input-group mb-4 shadow-none"><div><div>Address</div></div><input type="text" value="0x44528da098b3cb58da3723b6175087ad6234e3e0"></div>
+								
+								</div></section>
+				
+						
+								<footer class="major">
+									<ul class="actions special">
+																<ul class="icons">
+								<li><a href="https://twitter.com/soultokenslt" class="icon brands fa-twitter alt"><span class="label">Twitter</span></a></li>
+								<li><a href="https://instagram.com/soultokenslt" class="icon brands fa-instagram alt"><span class="label">Instagram</span></a></li>
+							</ul>
+								  </ul>
+			  </footer>
+							
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">&copy; SOUL TOKEN. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+					</footer>
+
+			</div>
+
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
